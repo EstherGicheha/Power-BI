@@ -1,2 +1,2 @@
 # Power-BI
-Analytics portfolio
+# [Project 1: Pizza Sales Analysis]
