@@ -31,3 +31,6 @@ The following concepts have been used throughout the project:
 - Page navigation
 - Filters
 - Buttons
+
+  ## Analysis and Visualization
+  
