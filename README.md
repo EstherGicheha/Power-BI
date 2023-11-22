@@ -3,13 +3,14 @@
 This is a Power BI project on sales analysis of one year for an imaginary pizza store. The project is to analyze and derive insights to answer crucial questions and help the store make data-driven decisions.
 
 ## Problem Statement
-Calculate the following metrics:
+a) Calculate the following metrics:
 1. Total Revenue- Sum of the total price of all pizza orders
 2. Average order value- Average amount spent per order
 3. Total pizzas sold- Sum of the quantities of all pizzas sold
 4. Total orders- Total number of orders placed
 5. Average pizzas per order- Average number of pizzas sold per order
-Visualize various aspects of the pizza sales data to gain insights and understand key trends
+   
+b) Visualize various aspects of the pizza sales data to gain insights and understand key trends
 1. Daily trend for total orders
 2. Monthly trend for total orders
 3. Percentage of sales by Pizza Category
