@@ -19,4 +19,15 @@ b) Visualize various aspects of the pizza sales data to gain insights and unders
 6. Top 5 Best Sellers by Revenue, Total Quantity and Total Orders
 7. Bottom 5 Worst Sellers by Revenue, Total Quantity and Total Orders
 
-##Skills Demonstrated
+## Skills Demonstrated
+The following concepts have been used throughout the project:
+- Importing data into MS SQL Server
+- Creating a database in MS SQL Server
+- Writing Queries
+- Creating reports
+- DAX
+- Data cleaning using transforming data tools and power query functions
+- Data visualization
+- Page navigation
+- Filters
+- Buttons
