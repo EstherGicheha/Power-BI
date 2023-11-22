@@ -1,4 +1,4 @@
-# Pizza Sales Analysis | ![](pizza-slice.png)
+# Pizza Sales Analysis | ![](pizza-slice.png) |
 ## Introduction
 This is a Power BI project on sales analysis of one year for an imaginary pizza store. The project is to analyze and derive insights to answer crucial questions and help the store make data-driven decisions.
 
@@ -33,4 +33,11 @@ The following concepts have been used throughout the project:
 - Buttons
 
   ## Analysis and Visualization
+
+  The following are the queries to calculate the metrics required:
+  ![](KPIs_Queries.PNG)
+  ![]()
+  ![]()
+  ![]()
+  
   
