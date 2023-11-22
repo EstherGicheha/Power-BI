@@ -36,6 +36,7 @@ The following concepts have been used throughout the project:
   The following are the queries to calculate the metrics required:
   
   ![](KPIs_Queries.PNG)
+  
   The following are queries for the chart requirements:
   
   |   ![](Chart_Queries1.PNG)  |   ![](Chart_Queries2.PNG)  |
