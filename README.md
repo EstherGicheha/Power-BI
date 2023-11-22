@@ -21,7 +21,7 @@ b) Visualize various aspects of the pizza sales data to gain insights and unders
 
 ## Skills Demonstrated
 The following concepts have been used throughout the project:
-- Importing data into MS SQL Server
+- Importing raw data into MS SQL Server
 - Creating a database in MS SQL Server
 - Writing Queries
 - Creating reports
@@ -32,8 +32,8 @@ The following concepts have been used throughout the project:
 - Filters
 - Buttons
 
-  ## Analysis and Visualization
-  The following are the queries to calculate the metrics required:
+ ## Analysis and Visualization
+ The following are the queries to calculate the metrics required:
   
   ![](KPIs_Queries.PNG)
   
