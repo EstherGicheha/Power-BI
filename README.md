@@ -33,7 +33,6 @@ The following concepts have been used throughout the project:
 - Buttons
 
   ## Analysis and Visualization
-
   The following are the queries to calculate the metrics required:
   ![](KPIs_Queries.PNG)
   ![]()
