@@ -46,8 +46,13 @@ The following concepts have been used throughout the project:
   The following shows the Power BI dashboards:
 
   ![](Home_Page.PNG)
+  This dashboard shows the KPIs, which are at the top, the bar chart for the daily trend of total orders, the line graph for the monthly trend, the donut chart for the percentage of sales by pizza category and size, and the funnel chart for total pizzas sold by category.
+  
 
   ![](Best_and_Worst_Sellers.PNG)
+  This dashboard shows the best and worst pizzas by revenue, quantity and total orders.
+  At the top left corner, there are two buttons, the Home and Best/Worst Sellers, which are used to navigate between the two pages. 
+  
  
   
   
