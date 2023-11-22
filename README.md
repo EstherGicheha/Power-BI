@@ -47,9 +47,12 @@ The following concepts have been used throughout the project:
 
   ![](Home_Page.PNG)
   
+  
   This dashboard shows the KPIs, which are at the top, the bar chart for the daily trend of total orders, the line graph for the monthly trend, the donut chart for the 
   percentage of sales by pizza category and size, and the funnel chart for total pizzas sold by category.
   
+
+
 
   ![](Best_and_Worst_Sellers.PNG)
   
